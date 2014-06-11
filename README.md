@@ -1,6 +1,6 @@
 # Android-AutoView
 
-能够在button，framelayout，linearlayout之类的widget在点击的时候加上阴影。
+只需要为View设置一张背景图片，就能够在被点击的时候加上点击效果。
 
 ![](./slide.gif)
 
@@ -15,6 +15,7 @@
         android:layout_height="wrap_content"/>
        
        
+    **这里面的`@drawable/bg_green_button`是一张png图片，并不是一个xml文件。**
 ##demo
 
 [下载地址](http://pan.baidu.com/s/1eQiTHM6)
