@@ -15,7 +15,8 @@
         android:layout_height="wrap_content"/>
        
        
-    **这里面的`@drawable/bg_green_button`是一张png图片，并不是一个xml文件。**
+**这里面的`@drawable/bg_green_button`是一张png图片，并不是一个xml文件。**
+
 ##demo
 
 [下载地址](http://pan.baidu.com/s/1eQiTHM6)
