@@ -6,7 +6,7 @@
 
 ##用法
 
-###在grdle中导入
+###在build.gradle中加上
 
     compile 'me.biubiubiu.autoview:library:1.0.0'
 
