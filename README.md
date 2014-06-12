@@ -8,7 +8,7 @@
 
 ###在grdle中导入
 
-    compile 'me.biubiubiu.justifytext:library:1.0.0'
+    compile 'me.biubiubiu.autoview:library:1.0.0'
 
 ###在xml中配置
 
