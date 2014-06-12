@@ -6,6 +6,12 @@
 
 ##用法
 
+###在grdle中导入
+
+compile 'me.biubiubiu.justifytext:library:1.0.0'
+
+###在xml中配置
+
     <me.biubiubiu.autoview.library.AutoButtonView
         android:text="I'm AutoButtonView"
         android:background="@drawable/bg_green_button"
